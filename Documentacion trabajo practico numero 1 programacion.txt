@@ -1,7 +1,0 @@
-Objetivos de la pagina powerfit: Promocionar el entrenamiento, nuestros planes y porque powerfit es una buena opcion para un gimnasio.
-
-Como se enlazan las paginas: Usando un 'link' en el visual code para entrelazar las paginas y poder ir y volver de cada una de ellas.
-
-Como se encuentra compuesto el proyecto: El proyecto tiene HTML, un poco de CSS y son 5 paginas entrelazadas que explican porque powerfit es una buena opcion como gimnasio.
-
-Participantes: Tiago Franco, Matias Racedo, Mateo Ferreyra.
